@@ -17,6 +17,7 @@ public class doublyLinkedList {
     public void addFirst(String value){
         
     }
+    
     /**
      * Haengt das Element hinten an die Liste an.
      * @param value 
@@ -24,6 +25,7 @@ public class doublyLinkedList {
     public void addLast(String value){
         
     }
+    
     /**
      * Fuegt das Element am angegebenen Index in die Liste ein. Wenn der Index 
      * der Anzahl der Elemente in der Liste entspricht, wird der Wert als am Ende
@@ -34,6 +36,7 @@ public class doublyLinkedList {
     public void add(int index, String value){
         
     }
+    
     /**
      * Liest den Wert am übergebenen Index aus.
      * @param index
@@ -42,6 +45,7 @@ public class doublyLinkedList {
     public String get(int index){
         return "";
     }
+    
     /**
      * Loescht das erste Element.
      * @return 
@@ -49,6 +53,7 @@ public class doublyLinkedList {
     public String removeFirst(){
         return "";
     }
+    
     /**
      * Loescht das letzte Element.
      * @return 
@@ -56,6 +61,7 @@ public class doublyLinkedList {
     public String removeLast(){
         return "";
     }
+    
     /**
      * Loescht das Element am angegebenen Index und gibt den darin gespeicherten
      * Wert zurueck.
@@ -65,6 +71,7 @@ public class doublyLinkedList {
     public String remove(int index){
         return "";
     }
+    
     /**
      * Liest die Anzahl der Werte in der Liste aus.
      * @return 
